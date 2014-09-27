@@ -26,7 +26,7 @@ class LesshatGrailsPlugin {
     def author = 'Alexey Zhokhov'
     def authorEmail = 'donbeave@gmail.com'
     def description = '''\
-// TODO TODO TODO
+Provides [LESS Hat|http://lesshat.madebysource.com/] support for the asset-pipeline static asset management plugin.
 '''
 
     def documentation = 'http://grails.org/plugin/lesshat'
@@ -38,7 +38,7 @@ class LesshatGrailsPlugin {
     ]
     def organization = [name: 'Polusharie', url: 'http://www.polusharie.com']
 
-    def issueManagement = [system: 'GITHUB',
+    def issueManagement = [system: 'GitHub',
                            url   : 'https://github.com/donbeave/grails-lesshat/issues']
     def scm = [url: 'https://github.com/donbeave/grails-lesshat']
 
