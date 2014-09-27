@@ -1,4 +1,4 @@
-grails-lesshat
+grails-lesshat [![Build Status](https://travis-ci.org/donbeave/grails-lesshat.svg?branch=master)](https://travis-ci.org/donbeave/grails-lesshat)
 ============
 
 Grails LESS Hat plugin
