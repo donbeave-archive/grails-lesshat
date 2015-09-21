@@ -41,7 +41,7 @@ Copyright and License
 
 lesshat plugin:
 
-Copyright 2014 Alexey Zhokhov under the [Apache License, Version 2.0](LICENSE). Supported by [Polusharie][polusharie].
+Copyright 2014 Alexey Zhokhov under the [Apache License, Version 2.0](LICENSE). Supported by [AZ][zhokhov].
 
 LESS Hat files:
 
@@ -69,5 +69,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-[lesshat]: http://lesshat.madebysource.com/
-[polusharie]: http://www.polusharie.com
+[lesshat]: http://lesshat.madebysource.com
+[zhokhov]: http://www.zhokhov.com
