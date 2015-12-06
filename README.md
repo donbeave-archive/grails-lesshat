@@ -1,5 +1,7 @@
-grails-lesshat [![Build Status](https://travis-ci.org/donbeave/grails-lesshat.svg?branch=master)](https://travis-ci.org/donbeave/grails-lesshat)
-============
+# grails-lesshat
+
+[![Build Status](https://travis-ci.org/donbeave/grails-lesshat.svg?branch=master)](https://travis-ci.org/donbeave/grails-lesshat)
+[![Analytics](https://ga-beacon.appspot.com/UA-71075299-1/grails-lesshat/main-page)](https://github.com/igrigorik/ga-beacon)
 
 Grails LESS Hat plugin
 
